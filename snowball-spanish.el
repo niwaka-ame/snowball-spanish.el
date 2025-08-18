@@ -1,6 +1,6 @@
 ;;; snowball-spanish.el --- Spanish Snowball stemmer -*- lexical-binding: t; -*-
 ;; Author: Yu Huo <yhuo@tuta.io>
-;; URL: https://github.com/niwaka-ame/snowball-spanish
+;; URL: https://github.com/niwaka-ame/snowball-spanish.el
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "25.1"))
 ;; Keywords: languages, nlp, spanish, stemming
