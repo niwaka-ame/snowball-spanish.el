@@ -19,4 +19,4 @@ To run the tests:
 
   `M-x ert RET snowball-spanish-test RET`
 
-Acknowledgment: I heavily used the free version of ChatGPT (which can be GPT-5 and older models) to port the Snowball algorithm in Emacs Lisp. The License of this code follows [that of Snowball's](https://snowballstem.org/license.html).
+Disclaimer: I instructed the free version of ChatGPT (which can be GPT-5 and older models) to write all the codes and to debug given the failed cases. The license of this program follows [that of Snowball's](https://snowballstem.org/license.html).
